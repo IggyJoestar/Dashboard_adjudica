@@ -1,0 +1,18 @@
+shape: (55_694, 2)
+┌─────────────────────────────────┬───────┐
+│ id                              ┆ count │
+│ ---                             ┆ ---   │
+│ str                             ┆ u32   │
+╞═════════════════════════════════╪═══════╡
+│ ADQUISICI¿N DE MA¿Z AMIL¿CEO P… ┆ 48    │
+│ ADQUISICI¿N DE TRIGO PELADO EN… ┆ 47    │
+│ REPUESTO PARA ACTUADOR ELECTRO… ┆ 42    │
+│ Oring EMPRESA DE GENERACION EL… ┆ 32    │
+│ VIVERES SECOS EJERCITO PERUANO… ┆ 30    │
+│ …                               ┆ …     │
+│ CONTRATACION DEL SERVICIO PARA… ┆ 1     │
+│ CONTRATACION DEL SERVICIO DE A… ┆ 1     │
+│ ADQUISICI¿N DE INSUMOS DEL PRO… ┆ 1     │
+│ ADQUISICION DE MATERIAL DE ENS… ┆ 1     │
+│ ELABORACI¿N DE FICHA T¿CNICA E… ┆ 1     │
+└─────────────────────────────────┴───────┘
